@@ -36,7 +36,7 @@ public class Main {
             if (arrIn > max) max = arrIn;
         }
         System.out.println("Минимальная сумма трат за месяц составила " + min + " рублей");
-        System.out.println("Минимальная сумма трат за месяц составила " + max + " рублей");
+        System.out.println("Максимальная сумма трат за месяц составила " + max + " рублей");
     }
     public static void task3() {
         System.out.println("___ Task 3 ___");
