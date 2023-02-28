@@ -1,12 +1,9 @@
-import java.lang.reflect.Array;
-import java.util.Arrays;
-
 public class Main {
     public static void main(String[] args) {
         task1();
         task2();
         task3();
-        task4();
+        task4(); // тестовый комментарий
     }
     // Объявить метод «сгенерироватьМассив»
     public static int[] generateRandomArray() {
